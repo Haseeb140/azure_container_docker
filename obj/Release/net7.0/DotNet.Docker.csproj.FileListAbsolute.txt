@@ -1,0 +1,15 @@
+/home/tk-lpt-0629/Documents/azureregi/App/bin/Release/net7.0/DotNet.Docker
+/home/tk-lpt-0629/Documents/azureregi/App/bin/Release/net7.0/DotNet.Docker.deps.json
+/home/tk-lpt-0629/Documents/azureregi/App/bin/Release/net7.0/DotNet.Docker.runtimeconfig.json
+/home/tk-lpt-0629/Documents/azureregi/App/bin/Release/net7.0/DotNet.Docker.dll
+/home/tk-lpt-0629/Documents/azureregi/App/bin/Release/net7.0/DotNet.Docker.pdb
+/home/tk-lpt-0629/Documents/azureregi/App/obj/Release/net7.0/DotNet.Docker.csproj.AssemblyReference.cache
+/home/tk-lpt-0629/Documents/azureregi/App/obj/Release/net7.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/tk-lpt-0629/Documents/azureregi/App/obj/Release/net7.0/DotNet.Docker.AssemblyInfoInputs.cache
+/home/tk-lpt-0629/Documents/azureregi/App/obj/Release/net7.0/DotNet.Docker.AssemblyInfo.cs
+/home/tk-lpt-0629/Documents/azureregi/App/obj/Release/net7.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/home/tk-lpt-0629/Documents/azureregi/App/obj/Release/net7.0/DotNet.Docker.dll
+/home/tk-lpt-0629/Documents/azureregi/App/obj/Release/net7.0/refint/DotNet.Docker.dll
+/home/tk-lpt-0629/Documents/azureregi/App/obj/Release/net7.0/DotNet.Docker.pdb
+/home/tk-lpt-0629/Documents/azureregi/App/obj/Release/net7.0/DotNet.Docker.genruntimeconfig.cache
+/home/tk-lpt-0629/Documents/azureregi/App/obj/Release/net7.0/ref/DotNet.Docker.dll
