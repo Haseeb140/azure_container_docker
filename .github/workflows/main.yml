@@ -22,6 +22,6 @@ jobs:
 
       - name: Build and Push Docker image
         run: |
-          docker build -t dotnettkxel.azurecr.io/dotnet1 .
-          docker tag dotnettkxel.azurecr.io/dotnet1:latest dotnettkxel.azurecr.io/dotnet1:${{ github.sha }}
-          docker push dotnettkxel.azurecr.io/dotnet1:${{ github.sha }}
+          docker build -t dotnettkxel.azurecr.io/dotnet2 .
+          docker tag dotnettkxel.azurecr.io/dotnet2:latest dotnettkxel.azurecr.io/dotnet2
+          docker push dotnettkxel.azurecr.io/dotnet2
